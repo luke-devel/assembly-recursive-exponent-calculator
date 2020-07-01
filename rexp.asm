@@ -3,7 +3,7 @@
     newLine: .asciiz "\n\n"
     promptA: .asciiz "\nEnter a: "
     promptB: .asciiz "\nEnter b: "
-    promptREXP: .asciiz "\nnrexp(a, b) = "
+    promptREXP: .asciiz "\nrexp(a, b) = "
 
 .text
 main:
